@@ -1,0 +1,32 @@
+﻿{
+  "RealmID": "94390aa0-c75d-11ed-9586-0050560401e2",
+  "RealmName": "Comet",
+  "Socket": {
+    "Address": "127.0.0.1",
+    "Port": 4360,
+    "UserName": "eyVSzmc0EQ7GQlrY4xQJaj1w3pYOdePEG9Dw/xVBzGo=",
+    "Password": "Y3TaYRH/2yIyb2T9htxnCNU2ozevkWfym7rMfejvKvE=",
+    "AesKey": "7oD2bihwK7uQLmM5Q6c6SodWmvNPdxgC",
+    "AesIV": "6fv44hjpBnD4dg0G"
+  },
+  "Rpc": {
+    "Address": "127.0.0.1",
+    "Port": 4351,
+    "Username": "yD3Ni6tMW1NNU1QH",
+    "Password": "jETqqIKi9LuFvOgu"
+  },
+  "Web": {
+    "Ping": "http://localhost:8082/Login"
+  },
+  "MySQLDumpPath": "C:\\Program Files\\MySQL\\MySQL Server 5.7\\bin\\mysqldump.exe",
+  "Database": {
+    "Hostname": "localhost",
+    "Username": "root",
+    "Password": "1234",
+    "Schema": "cq6135",
+    "Port": 3306
+  },
+  "Folders": {
+    "GameServer": "D:\\src\\Canyon\\canyon\\src\\Bin\\net7.0"
+  }
+}

@@ -1,0 +1,58 @@
+{
+	"Database": {
+		"Hostname": "localhost",
+		"Username": "root",
+		"Password": "1234",
+		"Schema": "cq6135",
+		"Port": 3306
+	},
+	"Realm": {
+		"ServerId": "94390aa0-c75d-11ed-9586-0050560401e2",
+		"Name": "Comet",
+		"IPAddress": "0.0.0.0",
+		"Port": 5816,
+		"MaxOnlinePlayers": 1500,
+		"Username": "yD3Ni6tMW1NNU1QH",
+		"Password": "jETqqIKi9LuFvOgu",
+		"ReleaseDate": "2023-01-01T00:00:00",
+
+		"Processors": 4
+	},
+	"Login": {
+		"IPAddress": "127.0.0.1",
+		"Port": 9921
+	},
+	"Ai": {
+		"IPAddress": "127.0.0.1",
+		"Port": 8650,
+		"Username": "yD3Ni6tMW1NNU1QH",
+		"Password": "jETqqIKi9LuFvOgu"
+	},
+	"MaintenanceSchedule": [
+		{
+			"DayOfWeek": 1,
+			"Time": "00:00:00",
+			"WarningMinutes": 5
+		},
+		{
+			"DayOfWeek": 3,
+			"Time": "00:00:00",
+			"WarningMinutes": 5
+		},
+		{
+			"DayOfWeek": 5,
+			"Time": "00:00:00",
+			"WarningMinutes": 5
+		}
+	],
+	"Piglet": {
+		"IPAddress": "127.0.0.1",
+		"Port": 4351,
+		"Username": "yD3Ni6tMW1NNU1QH",
+		"Password": "jETqqIKi9LuFvOgu"
+	},
+	"Auth": {
+		"SharedKey": "7oD2bihwK7uQLmM5Q6c6SodWmvNPdxgC",
+		"SharedIV": "6fv44hjpBnD4dg0G"
+	}
+}
